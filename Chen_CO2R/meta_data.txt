@@ -1,0 +1,6 @@
+mode = CO2R
+pH = 6.8
+catalyst = OD-Au
+roughness = 72
+cell = H-cell
+doi = 10.1021/ja309317u 

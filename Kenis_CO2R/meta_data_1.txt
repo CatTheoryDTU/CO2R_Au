@@ -1,0 +1,6 @@
+mode = CO2R
+pH = 13.77
+catalyst = Au-NPph13.77
+roughness = 1 
+cell = GDE
+doi = 10.1021/acscatal.7b03449

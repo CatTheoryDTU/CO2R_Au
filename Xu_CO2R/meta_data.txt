@@ -1,0 +1,6 @@
+mode = CO2R
+pH = 6.8
+catalyst = Au-foil
+roughness = 1
+cell = H-cell
+doi = 10.1021/acscatal.8b02181
